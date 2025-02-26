@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-02-26 04:35:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-02-26 03:23:13 +0000"
@@ -339,9 +345,10 @@
   "enderioconduits:root": {
     "criteria": {
       "inv_changed-enderio:gravel": "2025-02-26 03:48:48 +0000",
-      "inv_changed-enderio:clay": "2025-02-26 03:33:29 +0000"
+      "inv_changed-enderio:clay": "2025-02-26 03:33:29 +0000",
+      "inv_changed-enderio:sand": "2025-02-26 04:32:13 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
@@ -469,6 +476,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "mesa": "2025-02-26 04:33:32 +0000",
+      "desert": "2025-02-26 04:32:05 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-02-26 03:23:13 +0000"
@@ -478,6 +492,12 @@
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-26 03:45:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-02-26 04:32:13 +0000"
     },
     "done": true
   },
@@ -664,7 +684,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-02-26 03:33:47 +0000",
-      "zombie": "2025-02-26 03:48:59 +0000"
+      "zombie": "2025-02-26 03:48:59 +0000",
+      "enderman": "2025-02-26 04:34:40 +0000"
     },
     "done": false
   },

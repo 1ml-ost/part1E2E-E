@@ -186,7 +186,7 @@ launch:
   checkOffline: false
 
   # specifies the max amount of ram the server is supposed to launch with
-  maxRam: 8G
+  maxRam: 16G
 
   # specifies the min amount of ram the server is supposed to launch with
   minRam: 2G
