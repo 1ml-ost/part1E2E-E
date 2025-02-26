@@ -1,0 +1,38 @@
+{
+  "nuclearcraft:root": {
+    "criteria": {
+      "location": "2025-02-26 01:04:20 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2025-02-26 01:04:20 +0000"
+    },
+    "done": true
+  },
+  "betteranimalsplus:root": {
+    "criteria": {
+      "location": "2025-02-26 01:04:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "location": "2025-02-26 01:04:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "shrubland": "2025-02-26 01:04:20 +0000"
+    },
+    "done": false
+  },
+  "rats:rats/root": {
+    "criteria": {
+      "location": "2025-02-26 01:04:20 +0000"
+    },
+    "done": true
+  }
+}
