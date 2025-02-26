@@ -686,7 +686,7 @@
             <generateGeodes>true</generateGeodes>
             <seaLevel>63</seaLevel>
             <genType>2</genType>
-            <biomeIds>minecraft:ice_flats;30</biomeIds>
+            <biomeIds>biomesoplenty:marsh;30,minecraft:ocean;30,biomesoplenty:orchard;30,minecraft:ice_flats;30,biomesoplenty:grove;30</biomeIds>
         </planet>
         <planet DIMID="125" name="Caveland">
             <isKnown>false</isKnown>
@@ -714,7 +714,7 @@
             <generateGeodes>true</generateGeodes>
             <seaLevel>63</seaLevel>
             <genType>1</genType>
-            <biomeIds>minecraft:extreme_hills;10</biomeIds>
+            <biomeIds>minecraft:mutated_ice_flats;30,minecraft:mushroom_island_shore;30,minecraft:taiga;10,minecraft:mutated_birch_forest;30,minecraft:mutated_taiga;30</biomeIds>
         </planet>
     </star>
 </galaxy>

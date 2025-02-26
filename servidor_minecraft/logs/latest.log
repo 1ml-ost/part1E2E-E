@@ -28732,3 +28732,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03:27:09] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
 [03:27:09] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
 [03:27:09] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[03:28:53] [Netty Epoll Server IO #6/INFO] [HammerLib]: Detected older version of GSON, using UnsafeAllocator.create()
+[03:29:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Blackberet has made the advancement [Sweet dreams]
+[03:30:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[03:30:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[03:30:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[03:33:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Blackberet has made the advancement [Not Today, Thank You]
+[03:33:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Blackberet has made the advancement [Monster Hunter]
+[03:34:42] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
