@@ -28619,3 +28619,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [23:10:32] [Server thread/INFO] [com.dynamic_view.DynView]: Mean tick: 13ms increasing chunk view distance to: 14
 [23:10:35] [Server thread/WARN] [mixin]: Discarding @Unique public method func_184996_a in mixins.stellar_core_thermalexpansion.json:MixinContainerSatchelFilter from owner unknown-owner because it already exists in cofh.thermalexpansion.gui.container.storage.ContainerSatchelFilter
 [23:12:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Blackberet has made the advancement [Geologically Mechanical]
+[23:34:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped Blackberet
+[23:35:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Blackberet: Set own game mode to Creative Mode]
+[23:36:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Blackberet: Set own game mode to Survival Mode]
+[23:37:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[23:37:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Blackberet: De-opped Blackberet]
+[23:40:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Blackberet has made the advancement [Hot Stuff]
