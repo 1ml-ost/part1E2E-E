@@ -28743,3 +28743,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03:45:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Blackberet has made the advancement [Stop that Health Inspector!]
 [03:48:45] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
 [03:56:45] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[04:00:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Blackberet has made the advancement [Stone Age]
