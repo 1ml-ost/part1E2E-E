@@ -99,3 +99,28 @@
 [00:18:19] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
 [00:18:19] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
 [00:18:21] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[00:25:36] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Blackberet lost connection: Disconnected
+[00:25:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Blackberet left the game
+[00:25:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[00:25:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:25:44] [Server thread/INFO] [Sledgehammer]: Closing 1 Endpoints...
+[00:25:44] [Server thread/INFO] [Sledgehammer]: Closed Endpoints
+[00:25:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:25:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:25:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'BBOP-Extended'/overworld
+[00:25:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'BBOP-Extended'/Spectre
+[00:25:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'BBOP-Extended'/Storage Cell
+[00:25:44] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 0
+[00:25:44] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world -343800852
+[00:25:44] [Server thread/INFO] [THAUMCRAFT]: Removing aura cache for world 2
+[00:25:44] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:25:44] [Server thread/INFO] [FML]: Unloading dimension -343800852
+[00:25:44] [Server thread/INFO] [FML]: Unloading dimension 2
+[00:25:44] [Server thread/INFO] [Actually Additions]: Unloaded WorldData!
+[00:25:44] [Server thread/INFO] [FluxNetworks]: FluxNetworkData has been unloaded
+[00:25:44] [Server thread/INFO] [mcjtylib_ng]: Cleaning up all world data: 2 data blobs
+[00:25:44] [Server thread/INFO] [justenoughdimensions]: Reloading the main configs from file '/workspaces/part1E2E-E/servidor_minecraft/config/justenoughdimensions/justenoughdimensions.cfg'
+[00:25:44] [Server thread/INFO] [mcjtylib_ng]: RFTools Dimensions: server is stopping. Shutting down gracefully
+[00:25:44] [Server thread/INFO] [mcjtylib_ng]: Cleaning up RFTools dimensions
+[00:25:44] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:25:44] [Server Shutdown Thread/INFO] [Sledgehammer]: Closing 1 Endpoints...
