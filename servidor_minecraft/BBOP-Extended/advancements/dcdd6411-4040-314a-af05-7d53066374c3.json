@@ -378,6 +378,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-02-26 23:47:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2025-02-26 03:48:48 +0000"
@@ -893,6 +899,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/sand_from_dried_sand": {
+    "criteria": {
+      "has_gem_block": "2025-02-26 23:55:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stonebrick": {
     "criteria": {
       "has_stone": "2025-02-26 23:36:41 +0000"
@@ -902,6 +914,12 @@
   "biomesoplenty:recipes/tools/empty_jar": {
     "criteria": {
       "has_glass": "2025-02-26 23:26:50 +0000"
+    },
+    "done": true
+  },
+  "enderio:root": {
+    "criteria": {
+      "location": "2025-02-26 23:47:45 +0000"
     },
     "done": true
   },
