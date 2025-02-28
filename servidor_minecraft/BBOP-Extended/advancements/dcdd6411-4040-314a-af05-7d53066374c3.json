@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-02-28 02:09:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-02-26 04:35:27 +0000"
@@ -353,6 +359,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-02-26 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-02-28 02:07:32 +0000"
     },
     "done": true
   },
@@ -841,6 +853,12 @@
     },
     "done": true
   },
+  "advancedrocketry:normal/root": {
+    "criteria": {
+      "crafting_table": "2025-02-28 02:12:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-02-26 03:45:42 +0000"
@@ -916,6 +934,12 @@
   "biomesoplenty:recipes/transportation/boat_palm": {
     "criteria": {
       "entered_water": "2025-02-26 03:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-02-28 02:07:32 +0000"
     },
     "done": true
   },
@@ -1048,6 +1072,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-02-28 01:53:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-02-28 02:07:37 +0000"
     },
     "done": true
   },
@@ -1628,6 +1658,12 @@
   "enderio:root": {
     "criteria": {
       "location": "2025-02-26 23:47:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/bowl_of_rice": {
+    "criteria": {
+      "has_bowl": "2025-02-28 02:09:21 +0000"
     },
     "done": true
   },
