@@ -284,7 +284,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "porkchop": "2025-02-26 04:02:07 +0000",
-      "apple": "2025-02-26 03:34:15 +0000"
+      "apple": "2025-02-26 03:34:15 +0000",
+      "rotten_flesh": "2025-02-28 01:11:31 +0000"
     },
     "done": false
   },
@@ -722,6 +723,7 @@
       "skeleton": "2025-02-26 03:33:47 +0000",
       "husk": "2025-02-28 00:38:09 +0000",
       "zombie": "2025-02-26 03:48:59 +0000",
+      "cave_spider": "2025-02-28 01:11:49 +0000",
       "spider": "2025-02-27 00:01:57 +0000",
       "creeper": "2025-02-28 00:12:13 +0000",
       "enderman": "2025-02-26 04:34:40 +0000"
@@ -1118,6 +1120,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/presses": {
+    "criteria": {
+      "eng": "2025-02-28 01:09:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-26 03:48:13 +0000"
@@ -1145,6 +1153,12 @@
   "minecraft:recipes/building_blocks/yellow_wool": {
     "criteria": {
       "has_white_wool": "2025-02-27 00:07:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-02-28 01:11:12 +0000"
     },
     "done": true
   },
